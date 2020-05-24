@@ -5,6 +5,3 @@ m1z0r3の一員で参加してきたのでいくつかWriteup上げてみます�
 解いた問題・・RSA Calc, Encrypter
 
 他のメンバーが先に解いて後追いして解いた問題・・R&B, Noisy equations
-
-#### 感想
-このレベルでもBeginners..
