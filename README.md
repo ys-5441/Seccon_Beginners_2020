@@ -1,4 +1,4 @@
-# Seccon_Beginners_2020 Writeup
+# Seccon Beginners CTF 2020
 
 m1z0r3の一員で参加してきたのでいくつかWriteup上げてみます。Crypto問を主に解いたのでそれについて。
 
